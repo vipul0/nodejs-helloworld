@@ -3,25 +3,7 @@
   "version": "1.0.0",
   "description": "A Node.js Hello Word Program",
   "main": "http_server.js",
-  "directories": {
-    "doc": "docs"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/macagua/nodejs-helloworld.git"
-  },
-  "keywords": [
-    "nodejs",
-    "hello world",
-    "program"
-  ],
-  "author": "Leonardo J. Caballero G.",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/macagua/nodejs-helloworld/issues"
-  },
-  "homepage": "https://github.com/macagua/nodejs-helloworld#readme"
+  "repository": "https://github.com/macagua/nodejs-helloworld.git",
+  "author": "Leonardo J. Caballero G. <leonardocaballero@gmail.com>",
+  "license": "GPL-3.0"
 }
